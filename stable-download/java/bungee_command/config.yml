@@ -1,6 +1,6 @@
 origin_blacklist_block_replit_clients: false
 enable_web_origin_blacklist: true
-server_name: EaglercraftBungee Server
+server_name: Neon
 listeners:
 - fallback_server: lobby
   tab_list: GLOBAL_PING
@@ -14,7 +14,7 @@ listeners:
   force_default_server: true
   forward_ip: false
   server_icon: server-icon.png
-  motd1: '&6An Eaglercraft server'
+  motd1: '&1Neon Network - @6Surival PvP, and more!'
   allow_motd: true
   allow_query: true
   request_motd_cache:
